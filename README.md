@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Vercel App](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/DavidAdjei/Time-Tracker)
+- Live Site URL: [Vercel App](https://time-tracker-david.vercel.app)
 
 ## My process
 
@@ -50,6 +50,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@DavidAdjei](https://www.frontendmentor.io/profile/DavidAdjei)
+- Twitter - [@nharnahadjei2](https://twitter.com/nharnahadjei2)
+- LinkedIn - [@David Adjei](https://www.linkedin.com/in/david-adjei-313a811a2/)
