@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/DavidAdjei/Time-Tracker)
-- Live Site URL: [Vercel App](https://time-tracker-david.vercel.app)
+- Live Site URL: [Vercel App](https://time-tracker-bice-rho.vercel.app/)
 
 ## My process
 
