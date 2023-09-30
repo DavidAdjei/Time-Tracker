@@ -170,4 +170,29 @@
         align-items: center;
         justify-content: space-between;
     }
+
+    .Work{
+        background-position: 15rem -11px;
+    }
+
+    .Play{
+        background-position: 15rem -11px;
+    }
+
+    .Study{
+        background-position: 15rem -11px;
+    }
+
+    .Exercise{
+        background-position: 15rem -2px;
+    }
+
+    .Social{
+        background-position: 15rem -11px;
+    }
+
+    .Self{
+        background-position: 15rem -11px;
+    }
+        
 }
