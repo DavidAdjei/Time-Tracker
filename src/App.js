@@ -12,9 +12,9 @@ export default function App() {
   };
 
   return (
-    <div className='container'>
+    <main className='container'>
       <ContainerLeft toggleActive={toggleActive} active={active}/>
       <ContainerRight data={activity} active={active} />
-    </div>
+    </main>
   );
 }
