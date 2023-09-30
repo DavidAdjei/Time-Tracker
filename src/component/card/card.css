@@ -129,6 +129,30 @@
     .details p{
         font-size: .8rem;
     }
+
+    .Work{
+        background-position: 6rem -11px;
+    }
+
+    .Play{
+        background-position: 6.4rem -11px;
+    }
+
+    .Study{
+        background-position: 6.4rem -11px;
+    }
+
+    .Exercise{
+        background-position: 6.4rem -2px;
+    }
+
+    .Social{
+        background-position: 6.7rem -11px;
+    }
+
+    .Self{
+        background-position: 6.9rem -11px;
+    }
 }
 
 @media screen and (max-width: 52rem) {
@@ -156,6 +180,30 @@
 
     .details p{
         font-size: .8rem;
+    }
+
+    .Work{
+        background-position: 4.1rem -11px;
+    }
+
+    .Play{
+        background-position: 4.1rem -11px;
+    }
+
+    .Study{
+        background-position: 4.1rem -11px;
+    }
+
+    .Exercise{
+        background-position: 4.1rem -2px;
+    }
+
+    .Social{
+        background-position: 4.7rem -11px;
+    }
+
+    .Self{
+        background-position: 4.7rem -11px;
     }
 }
 
