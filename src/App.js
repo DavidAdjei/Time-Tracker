@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import ContainerLeft from './component/containerLeft';
+import ContainerRight from './component/containerRight';
+import data from './data.json';
 
-function App() {
+export default function App() {
+  const [active, setActive] = useState('Weekly');
+  const [activity, setActivity] = useState(data);
+
+  const toggleActive = (title) => {
+    setActive(title);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='container'>
+      <ContainerLeft toggleActive={toggleActive} active={active}/>
+      <ContainerRight data={activity} active={active} />
     </div>
   );
 }
-
-export default App;
